@@ -1,8 +1,9 @@
-certifi==2023.7.22\nrequests\ntelebot
+certifi==2023.7.22
+requests
+telebot
 beautifulsoup4
 img2pdf
 pytelegrambotapi
-requests
 telegram
 aiogram
 aiohttp
