@@ -1,0 +1,9 @@
+certifi==2023.7.22\nrequests\ntelebot
+beautifulsoup4
+img2pdf
+pytelegrambotapi
+requests
+telegram
+aiogram
+aiohttp
+reportlab
