@@ -13,7 +13,7 @@ import threading
 
 api_id = 20306694 #غيره هدا بتاعتك 
 api_hash = 'c72ed3735574dc46a7f0d447b3c61152'
-TOKEN = '7136371530:AAGg6HBQU--G6-BGT7Zde53mmUlu6PtGKZ8'
+TOKEN = '7136371530:AAHy7He8G6BchPVDmQDMVpHxUMjni3bRBvM'
 
 bot = telebot.TeleBot(TOKEN)
 telethon_client = None
