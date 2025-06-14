@@ -1,10 +1,4 @@
-certifi==2023.7.22
-requests
-telebot
-beautifulsoup4
 img2pdf
-pytelegrambotapi
-telegram
-aiogram
-aiohttp
-reportlab
+telebot
+telethon
+DrissionPage
