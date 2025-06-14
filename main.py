@@ -229,7 +229,7 @@ async def start_bot_async():
     main_loop = asyncio.get_running_loop()
     
     telethon_client = telethon.TelegramClient('manga_bot_session', api_id, api_hash)
-    await telethon_client.start()
+    await telethon_client.start(bot_token=TOKEN)
     logger.info("Telethon user client started successfully.")
     
     telebot_thread = threading.Thread(target=bot.infinity_polling, kwargs={'skip_pending': True})
